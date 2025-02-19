@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BetfairSpOddsBandBetPlacer": {
+      "commandName": "Project",
+      "commandLineArgs": ""
+    }
+  }
+}
